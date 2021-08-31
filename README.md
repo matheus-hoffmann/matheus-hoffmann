@@ -23,7 +23,7 @@
 [<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][linkedin]
 [<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][linkedin]
 
-[<img align="left" alt="PyCharm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pycharm.svg" />][linkedin]
+[<img align="left" alt="PyCharm" width="26px" src="https://img1.gratispng.com/20180414/pvw/kisspng-pycharm-integrated-development-environment-python-restart-5ad2617e01bd11.1456249115237369580072.jpg" />][linkedin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png" />][linkedin]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
