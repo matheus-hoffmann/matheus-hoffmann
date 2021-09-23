@@ -37,15 +37,8 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Matheus' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=matheus-hoffmann&show_icons=true&hide_border=true" />
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="Matheus' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hoffmann" />
-</details>
+<a href='https://github.com/matheus-hoffmann/github-stats-transparent'>
+  
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=matheus-hoffmann&show_icons=true&theme=gruvbox) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hoffmann&layout=compact&theme=gruvbox)](https://github.com/matheus-hoffmann/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/matheus-hoffmann/
