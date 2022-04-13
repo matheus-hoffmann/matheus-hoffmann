@@ -11,6 +11,20 @@
 - ⚡ Fun fact: ...
 -->
 
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
+section Career
+Yield Control :active,, 2018-03-01,2018-12-31
+Tecgraf       :active,, 2019-03-01,2021-10-08
+CTIS          :active,, 2021-10-13,2022-04-13
+section Education
+Bachelor of Science in Mechanical Engineering :active,, 2014-02-01,2018-12-31
+Baja SAE Racing Team :active,, 2015-03-01,2018-09-01
+Master of Science in Mechanical Engineering :active,, 2020-02-01,2022-06-01
+```
+
 ### Connect with Me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
