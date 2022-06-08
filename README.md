@@ -18,11 +18,11 @@ title My Timeline
 section Career
 Yield Control :active,, 2018-03-01,2018-12-31
 Tecgraf       :active,, 2019-03-01,2021-10-08
-CTIS          :active,, 2021-10-13,2022-04-13
+CTIS          :active,, 2021-10-13,2022-10-13
 section Education
 Bachelor of Science in Mechanical Engineering :active,, 2014-02-01,2018-12-31
 Baja SAE Racing Team :active,, 2015-03-01,2018-09-01
-Master of Science in Mechanical Engineering :active,, 2020-02-01,2022-06-01
+Master of Science in Mechanical Engineering :active,, 2020-02-01,2022-07-31
 ```
 
 ### Connect with Me:
