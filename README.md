@@ -22,7 +22,7 @@ CTIS          :active,, 2021-10-13,2022-10-13
 section Education
 Bachelor of Science in Mechanical Engineering :active,, 2014-02-01,2018-12-31
 Baja SAE Racing Team :active,, 2015-03-01,2018-09-01
-Master of Science in Mechanical Engineering :active,, 2020-02-01,2022-07-31
+Master of Science in Mechanical Engineering :active,, 2020-02-01,2022-08-19
 ```
 
 ### Connect with Me:
